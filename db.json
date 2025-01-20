@@ -161,86 +161,7 @@
         "poster": "https://i.scdn.co/image/ab67616d0000b273c8d9919c89ac190f25003aea",
         "comentario": "Una narrativa fascinante que mezcla terror y suspenso."
         ,"estado": "Hot"
-      },
-      {
-        "id": "aa3dd1d7-fba7-43c2-8ba5-38b708159d3b",
-        "titulo": "Teken 8",
-        "genero": [
-          "Lucha",
-          "Accion"
-        ],
-        "year": 2023,
-        "rate": 8.7,
-        "poster": "https://cdn11.bigcommerce.com/s-k0hjo2yyrq/products/3820/images/5842/TKN8_PACKSHOT_GAME_D1_METADATA__58226.1723035534.1280.1280.jpg?c=1",
-        "comentario": "La franquicia regresa con brutalidad y gráficos impactantes."
-        ,"estado": "Pendiente"
-      },
-      {
-        "id": "e5b0a62b-c914-438c-9e7f-5bb2e1c1b8e9",
-        "titulo": "Hades II",
-        "genero": [
-          "Accion",
-          "RPG",
-          "Rogue-Lite"
-        ],
-        "year": 2024,
-        "rate": 9.3,
-        "poster": "https://cdn1.epicgames.com/spt-assets/ea0a24395cd641d7bbde3e5d78ad462c/hades-ii-acu3y.png",
-        "comentario": "Un digno sucesor que promete superar al original."
-        ,"estado": "Hot"
-      },
-      {
-        "id": "e5b0a62b-c914-438c-9e7f-5bb2e1c1b8e9",
-        "titulo": "Hades I",
-        "genero": [
-          "Accion",
-          "RPG",
-          "Rogue-Lite"
-        ],
-        "year": 2024,
-        "rate": 9.3,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyg7yCdSFtKyhBMdIaq-SiK3pxmOb3YV2AkQ&s",
-        "comentario": "Un digno sucesor que promete superar al original."
-        ,"estado": "Completado"
-      },
-      {
-        "id": "2df77bb7-92b5-4c0c-98dc-9c6c0ccf43f3",
-        "titulo": "Payday 3",
-        "genero": [
-          "Accion"
-        ],
-        "year": 2023,
-        "rate": 7.8,
-        "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2616/ca279a1ef71cdc8df7f320e2aecdf1fee9879bf1fc2f6121.jpg",
-        "comentario": "Una experiencia emocionante para jugar con amigos."
-        ,"estado": "Pendiente"
-      },
-      {
-        "id": "b23a3f91-b25e-414e-9cd3-ec7aaf58205c",
-        "titulo": "Assassin's Creed Mirage",
-        "genero": [
-          "Accion",
-          "Aventuras"
-        ],
-        "year": 2023,
-        "rate": 8.9,
-        "poster": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/phwiQjbJddEg979YucUoP3Vr.png",
-        "comentario": "Un regreso a las raíces de la franquicia con mecánicas mejoradas."
-        ,"estado": "Pendiente"
-      },
-      {
-        "id": "3948cf9c-8c0f-4651-9d62-9d2f446e4e58",
-        "titulo": "TemTem",
-        "genero": [
-              "Accion"
-        ],
-        "year": 2021,
-        "rate": 8,
-        "poster": "https://m.media-amazon.com/images/I/71woDr-R3hL._AC_UF894,1000_QL80_.jpg",
-        "comentario": "Un digno sucesor que mejora todo lo que hizo grande al original."
-        ,"estado": "Completado"
       }
-     
   ],
 
   "users": [
@@ -315,30 +236,6 @@
             "password": "hashed_password",
             "rol": "usuario",
             "estado": "inactivo"
-          },
-          {
-            "id": "7h8i9j0k-1234-56lm-nopq-rstuvwxyzcde",
-            "nombre": "María López",
-            "email": "maria.lopez@example.com",
-            "password": "hashed_password",
-            "rol": "admin",
-            "estado": "activo"
-          },
-          {
-            "id": "8i9j0k1l-2345-67mn-opqr-stuvwxyzabcd",
-            "nombre": "Javier Sánchez",
-            "email": "javier.sanchez@example.com",
-            "password": "hashed_password",
-            "rol": "usuario",
-            "estado": "activo"
-          },
-          {
-            "id": "9j0k1l2m-3456-78no-pqrs-tuvwxyzcdefg",
-            "nombre": "Sofía Fernández",
-            "email": "sofia.fernandez@example.com",
-            "password": "hashed_password",
-            "rol": "moderador",
-            "estado": "activo"
           }
         ]
       }
